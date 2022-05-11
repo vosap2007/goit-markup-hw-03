@@ -51,7 +51,7 @@ html {
   font-weight: 700;
   font-size: 26px;
   line-height: 1.19;
-  /* identical to box height */
+
   letter-spacing: 0.03em;
   color: #2196f3;
   word-spacing: -7px;
@@ -248,11 +248,10 @@ html {
   background: #188ce8;
 }
 
-/*list - убирает точки перед селектарами  */
 .list {
   list-style: none;
 }
-/*link - убирает подчеркивание  селектара  */
+
 .link {
   text-decoration: none;
 }
@@ -358,7 +357,7 @@ html {
   font-weight: 500;
   font-size: 16px;
   line-height: 1.19;
-  /* identical to box height */
+
   text-align: center;
   letter-spacing: 0.03em;
   color: #212121;
@@ -368,7 +367,7 @@ html {
   font-weight: 400;
   font-size: 16px;
   line-height: 1.19;
-  /* identical to box height */
+
   text-align: center;
   letter-spacing: 0.03em;
   color: #757575;
@@ -382,11 +381,9 @@ html {
 }
 
 .container-projects {
-  /* display: inline;*/
   width: 1200px;
   padding: 0 auto;
   margin: 0 auto;
-  /*border: 2px solid red;*/
 }
 
 .buttons {
@@ -411,7 +408,7 @@ html {
   font-weight: 500;
   font-size: 16px;
   line-height: 1.63;
-  /* identical to box height, or 162% */
+
   text-align: center;
   letter-spacing: 0.03em;
   cursor: pointer;
@@ -441,7 +438,7 @@ html {
   font-weight: 500;
   font-size: 16px;
   line-height: 1.63;
-  /* identical to box height, or 162% */
+
   text-align: center;
   letter-spacing: 0.03em;
   background: #2196f3;
@@ -456,7 +453,6 @@ html {
 /*----------------projects-list----------------*/
 
 .projects-content {
-  /*outline:  1px solid #EEEEEE;*/
   margin: 0 auto;
   border: 1px solid #eeeeee;
 }
@@ -467,7 +463,7 @@ html {
   font-weight: 700;
   font-size: 18px;
   line-height: 2;
-  /* identical to box height, or 200% */
+
   letter-spacing: 0.06em;
   color: #212121;
   padding: 20px 0 4px 24px;
@@ -478,7 +474,7 @@ html {
   font-weight: 400;
   font-size: 16px;
   line-height: 1.88;
-  /* identical to box height, or 188% */
+
   letter-spacing: 0.03em;
   color: #757575;
   padding-bottom: 20px;
